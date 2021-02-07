@@ -10,5 +10,5 @@ Place to put all of my data science projects, The projects include data analysis
 
 ## Data Analysis
 
-### [Marketing Analytics]()
+### [Marketing Analytics](https://github.com/himawanadityas/Data-Science-Project/blob/main/Marketing%20Analysis.ipynb)
 This project describes the marketing analysis of a company and then the result of analysis that have been made are given to CMO. There're several tasks that have to finished for finishing the analysis, these tasks are exploratory data analysis, statistical analysis, visualization, and summary/recommendation to CMO. Dataset yang digunakan berasal dari kaggle platform.
