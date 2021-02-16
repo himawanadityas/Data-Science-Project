@@ -17,3 +17,6 @@ This project describes the marketing analysis of a company and then the result o
 ## SQL
 
 ### [Chicago Crime](https://github.com/himawanadityas/Coursera-Data-Science/blob/main/Databases%20and%20SQL%20for%20Data%20Science/SQL_Chicago.ipynb)
+
+## DataViz
+### [HR Analytics](https://public.tableau.com/profile/himawan.adityas#!/vizhome/HRAnalytic_16130200625290/Dashboard1)
